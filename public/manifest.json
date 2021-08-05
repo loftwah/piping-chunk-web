@@ -1,6 +1,6 @@
 {
-  "name": "piping-chunk",
-  "short_name": "piping-chunk",
+  "name": "lofts-pipe-server",
+  "short_name": "lofts-pipe-server",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
